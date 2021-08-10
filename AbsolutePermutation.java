@@ -1,5 +1,8 @@
 import java.util.*;
 
+/*
+ * Problem Link: https://www.hackerrank.com/challenges/absolute-permutation/problem
+ */
 public class AbsolutePermutation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
